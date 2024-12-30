@@ -14,7 +14,7 @@ Contact Information: You can reach me via email at xw47 [at] illinois [dot] edu.
 Education Background
 =====
 
-**Ph.D. in Econometrics and Quantitative Economics**
+**Ph.D. in Econometrics and Quantitative Economics**<br>
 &nbsp;&nbsp;University of Illinois Urbana-Champaign, expected May 2026
 
 **Graduate Minor in Applied Statistics**  
