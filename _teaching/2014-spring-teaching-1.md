@@ -13,6 +13,6 @@ Teaching Assistant
 
 &nbsp;&nbsp;Fall 2022
 
-**ECON 303 Inter MAcro Theory**
+**ECON 303 Inter Macro Theory**
 
 &nbsp;&nbsp;Fall 2021, Spring 2022
