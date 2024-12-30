@@ -15,7 +15,6 @@ Education Background
 =====
 
 **Ph.D. in Econometrics and Quantitative Economics**
-
 &nbsp;&nbsp;University of Illinois Urbana-Champaign, expected May 2026
 
 **Graduate Minor in Applied Statistics**  
