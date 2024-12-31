@@ -26,7 +26,7 @@ author:
   pronounced       : "Shee-ah-hahn"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Urbana, Illinois, US"
-  employer         : "University of Illinois, Urbana - Champaign"
+  employer         : "University of Illinois"
   uri              : # URL
   email            : "xw47@illinois.edu" 
   linkedin         : https://www.linkedin.com/in/xiaohanwang9796/
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : https://github.com/xiaohanwang1997
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
