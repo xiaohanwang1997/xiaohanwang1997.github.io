@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xiaohan Wang"
+  name             : #"Xiaohan Wang"
   pronounced       : #"Shee-ah-hahn"  
   bio              : #"pronouced as "Shee-ah-hahn""
   location         : "Urbana, Illinois, US"
