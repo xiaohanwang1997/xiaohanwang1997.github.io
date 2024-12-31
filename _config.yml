@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xiaohan Wang"
-  pronounced       : "Shee-ah-hahn"  
-  bio              : "pronouced as "Shee-ah-hahn""
+  pronounced       : #"Shee-ah-hahn"  
+  bio              : #"pronouced as "Shee-ah-hahn""
   location         : "Urbana, Illinois, US"
   employer         : "University of Illinois"
   uri              : # URL
