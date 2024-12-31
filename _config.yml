@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "headshot-xiaohan.png"
+  name             : "Xiaohan Wang"
+  pronounced       : "Shee-ah-hahn"  
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Urbana, Illinois, US"
-  employer         : "University of Illinois at Urbana - Champaign"
+  employer         : "University of Illinois, Urbana - Champaign"
   uri              : # URL
   email            : "xw47@illinois.edu" 
   linkedin         : https://www.linkedin.com/in/xiaohanwang9796/
