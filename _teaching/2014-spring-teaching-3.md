@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /teaching/
 author_profile: true
+permalink: /teaching/2014-spring-teaching-3
 redirect_from:
   - /teaching
 ---
