@@ -30,4 +30,5 @@ Course Assistant
 
 Teaching Awards & Certifications
 =====
-**List of Teachers Ranked as Excellent at the University of Illinois**,Spring 2024
+**List of Teachers Ranked as Excellent at the University of Illinois**<br>
+&nbsp;&nbsp;Spring 2024
