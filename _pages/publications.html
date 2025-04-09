@@ -1,36 +1,27 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Work In Progress"
+permalink: /research/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+{% for post in site.publications reversed %}
+  {% if post.category == "manuscripts" %}
+  <article class="archive__item">
+    <h2 class="archive__item-title">{{ post.title }}</h2>
 
+    {% if post.excerpt %}
+      <div class="archive__item-excerpt">
+        {{ post.excerpt | markdownify }}
+      </div>
+    {% endif %}
 
-
+    {% if post.keywords %}
+      <p><strong>Keywords:</strong> {{ post.keywords | join: ", " }}</p>
+    {% endif %}
+  </article>
+  <hr />
+  {% endif %}
+{% endfor %}
