@@ -1,14 +1,8 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
+title: "Did Aid Matter? Measuring the Effect of Federal Financial Aid on College Market Outcomes"
+collection: research
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
+excerpt: "Tuition-free college programs have reshaped higher education by influencing enrollment decisions and institutional pricing strategies. This study examines the Tennessee Promise program’s effects on student enrollment and tuition-related outcomes. The results suggest that full-time first-time enrollment at two-year public institutions increased by at least **42%**, with particularly strong gains among **Black and Hispanic** students. In contrast, public four-year institutions experienced a **2–3%** decline in enrollment, indicating a potential reallocation of students from four-year to two-year colleges. In response to shifting student demand, **net price** at two-year institutions rose by approximately **$100–$200** per student, and **out-of-state tuition** increased by nearly **$850**. Four-year institutions also appear to have reduced **institutional aid** by **$200–$300** per student. These findings highlight how tuition-free college programs may influence **enrollment distribution**, **financial aid strategies**, and **institutional pricing**, offering insight into the broader implications of aid policy design."
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+keywords: [Higher Education Finance, Tennessee Promise, Free College, Enrollment Substitution, Institutional Pricing]
+---
