@@ -1,8 +1,9 @@
 ---
-title: "Did Aid Matter? Measuring the Effect of Federal Financial Aid on College Market Outcomes"
+title: "Child Labor Laws and Occupational Mobility in Agriculture"
 collection: research
 category: manuscripts
-excerpt: "Tuition-free college programs have reshaped higher education by influencing enrollment decisions and institutional pricing strategies. This study examines the Tennessee Promise program’s effects on student enrollment and tuition-related outcomes. The results suggest that full-time first-time enrollment at two-year public institutions increased by at least **42%**, with particularly strong gains among **Black and Hispanic** students. In contrast, public four-year institutions experienced a **2–3%** decline in enrollment, indicating a potential reallocation of students from four-year to two-year colleges. In response to shifting student demand, **net price** at two-year institutions rose by approximately **$100–$200** per student, and **out-of-state tuition** increased by nearly **$850**. Four-year institutions also appear to have reduced **institutional aid** by **$200–$300** per student. These findings highlight how tuition-free college programs may influence **enrollment distribution**, **financial aid strategies**, and **institutional pricing**, offering insight into the broader implications of aid policy design."
+excerpt: "This study explores the influence of **U.S. child labor legislation** on the **intergenerational transmission** of **agricultural occupations**. Utilizing data from the U.S. Decennial Census and the Census of Agriculture spanning 1870 to 1930, the analysis employs a **Difference-in-Differences** framework to uncover a notable decline in the likelihood of children from farming families pursuing agricultural careers. The findings reveal that the effects were not uniform, with variations observed across **gender**, **birth order**, and **racial groups**, where disadvantaged populations were more inclined to transition to non-agricultural industries. Furthermore, the research highlights a simultaneous **reduction in the number of farms** and an **increase in average farm size**, indicating a trend toward **sectoral consolidation**. These results underscore the role of child labor laws in shaping **occupational dynamics** and fostering a broader **structural shift away from agriculture.**"
+"
 
-keywords: [Higher Education Finance, Tennessee Promise, Free College, Enrollment Substitution, Institutional Pricing]
+keywords: [Child Labor Laws, Agricultural Consolidation, Sectoral Shifts]
 ---
