@@ -7,21 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% if post.category == "manuscripts" %}
-    <article class="archive__item">
-      <h2 class="archive__item-title">{{ post.title }}</h2>
+{% assign filtered = site.publications | where: "category", "manuscripts" | sort: "order" %}
+{% for post in filtered %}
+  <article class="archive__item">
+    <h2 class="archive__item-title">{{ post.title }}</h2>
 
-      {% if post.excerpt %}
-        <div class="archive__item-excerpt">
-          {{ post.excerpt | markdownify }}
-        </div>
-      {% endif %}
+    {% if post.excerpt %}
+      <div class="archive__item-excerpt">
+        {{ post.excerpt | markdownify }}
+      </div>
+    {% endif %}
 
-      {% if post.keywords %}
-        <p><strong>Keywords:</strong> {{ post.keywords | join: ", " }}</p>
-      {% endif %}
-    </article>
-    <hr />
-  {% endif %}
+    {% if post.keywords %}
+      <p><strong>Keywords:</strong> {{ post.keywords | join: ", " }}</p>
+    {% endif %}
+  </article>
+  <hr />
 {% endfor %}
+
