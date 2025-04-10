@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% assign filtered = site.publications | where: "category", "manuscripts" | sort: "order" %}
+{% for post in filtered %}
   {% if post.category == "manuscripts" %}
   <article class="archive__item">
     <h2 class="archive__item-title">{{ post.title }}</h2>
