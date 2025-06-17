@@ -7,8 +7,9 @@ redirect_from:
   - /teaching
 ---
 
+<div class="notice--primary" markdown="1">
+  
 ## 📘 Courses Taught
-{: .notice--primary}
 
 ### ECON 102: *Microeconomic Principles*
 - **Teaching Assistant**: Fall 2023, Spring 2024, Fall 2024, Spring 2025
@@ -26,11 +27,14 @@ redirect_from:
 
 ### iMBA Program, *Gies College of Business*
 - **Course Assistant**: 2020, Summer 2020, Fall 2020, Spring 2021, Summer 2021
+  
+</div>
 
 ---
 
+<div class="notice--info" markdown="1">
+
 ## 🗂️ Teaching Statement & Evaluations
-{: .notice--info}
 
 - 📄 Read my [teaching statement here](link-to-statement).  
 - 📝 View my [teaching evaluations here](link-to-evaluations).
@@ -58,9 +62,14 @@ redirect_from:
 > "One of the best TAs I’ve had—clear, supportive, and genuinely enthusiastic about the material. Her review sessions really boosted my confidence going into the exams."  
 > — *Spring 2023*
 
+</div>
+
 ---
 
+<div class="notice--success" markdown="1">
+  
 ## 🏅 Teaching Awards & Certifications
-{: .notice--success}
 
 - 🏆 **List of Teachers Ranked as Excellent**, University of Illinois — *Spring 2024*
+
+</div>
