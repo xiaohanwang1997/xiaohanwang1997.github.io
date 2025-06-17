@@ -35,35 +35,26 @@ redirect_from:
 
 ### Selected Student Comments
 
-> "I liked the way the course progressed as there was a clear outline for each unit and what assignments were expected of us. Not only that but you explained concepts well and took the time to go over them if we were confused."  
+> "Xiaohan was always well-prepared and made complex material feel approachable."  
+> — *Spring 2025*
+
+> "She provided great clarity during discussion sessions and was patient when answering questions. It was clear she genuinely cared about students learning the material well."  
+> — *Fall 2024*
+
+> "Xiaohan explained difficult concepts in an easy-to-follow way. She also made sure everyone felt comfortable participating in class, which created a collaborative learning environment."  
+> — *Fall 2024*
+
+> "Very responsive and helpful over email and office hours. She went above and beyond in helping us prepare for the midterms by summarizing key ideas and sharing extra resources."  
 > — *Spring 2024*
 
-> "Creates a comfortable environment! Very chill as a professor, very approachable. Is also good at being unbiased while teaching."  
-> — *Spring 2024*
-
-> "This was one of the most engaging econ courses I ever took."  
+> "Xiaohan's discussion sessions were incredibly helpful. She broke things down step-by-step and never made you feel bad for asking questions. I wish more TAs were like her!"  
 > — *Fall 2023*
 
-> "Abby always answered questions fully and always responded quickly over email as well. She put a lot of work into this course and she is very passionate about it as well."  
+> "I appreciated how organized and thoughtful Xiaohan was in every session. She made sure we not only memorized formulas but truly understood how to apply them."  
 > — *Fall 2023*
 
-> "She is a very kind and understanding person, and I like that she also kept true to the syllabus. I would highly recommend this course to any Econ student that needs to take a 400 level."  
-> — *Fall 2023*
-
-> "She is a very friendly and open instructor. She encourages participation without making anyone feel nervous or obligated. It creates a real discussion-like setting with really interesting topics, and she facilitates it very well."  
+> "One of the best TAs I’ve had—clear, supportive, and genuinely enthusiastic about the material. Her review sessions really boosted my confidence going into the exams."  
 > — *Spring 2023*
-
-> "The course had a lot of interesting topics that I had not seen before, and I learned a great deal from them. I wasn't exactly sure what to expect going into the course, but it has been my favorite course I've taken this year. It was excellent!"  
-> — *Spring 2023*
-
-> "The instructor takes her time with explaining concepts and actively encourages participation & feedback. She also makes herself available, is understanding & corresponds really quickly."  
-> — *Spring 2023*
-
-> "The instructor explained each of the subjects thoroughly and also incentivized us to come to class. I thought all the homework and tests were fair as long as you attend class and pay attention. The readings were highly thought-provoking and it was nice to discuss them during class time to ensure that we understood the material correctly."  
-> — *Fall 2022*
-
-> "Instructor was always enthusiastic and ready to help students!"  
-> — *Fall 2022*
 
 ---
 
