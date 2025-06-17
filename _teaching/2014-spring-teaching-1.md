@@ -7,7 +7,8 @@ redirect_from:
   - /teaching
 ---
 
-## Courses Taught
+{: .notice--primary}
+## 📘 Courses Taught
 
 ### ECON 102: *Microeconomic Principles*
 - **Teaching Assistant**: Fall 2023, Spring 2024, Fall 2024, Spring 2025
@@ -28,7 +29,8 @@ redirect_from:
 
 ---
 
-## Teaching Statement & Evaluations
+{: .notice--info}
+## 🗂️ Teaching Statement & Evaluations
 
 - 📄 Read my [teaching statement here](link-to-statement).  
 - 📝 View my [teaching evaluations here](link-to-evaluations).
@@ -58,6 +60,7 @@ redirect_from:
 
 ---
 
-## Teaching Awards & Certifications
+{: .notice--success}
+## 🏅 Teaching Awards & Certifications
 
 - 🏆 **List of Teachers Ranked as Excellent**, University of Illinois — *Spring 2024*
