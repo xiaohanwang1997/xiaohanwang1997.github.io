@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Xiaohan (pronouced as "Shee-ah-hahn"), currently pursuing a Ph.D. in Econometrics and Quantitative Economics at the University of Illinois, Urbana-Champaign. My academic journey is driven by a deep interest in labor economics, public economics, and applied microeconometrics, with a strong emphasis on how policy influences education and labor markets.
+Hello, and welcome! I’m **Xiaohan** (pronounced *Shee-ah-hahn*), a Ph.D. candidate in Econometrics and Quantitative Economics at the University of Illinois at Urbana-Champaign. My research interests lie in labor economics, public economics, and applied microeconometrics, with a particular focus on how policy interventions influence educational attainment and labor market outcomes.
 
-Contact Information: You can reach me via email at xw47 [at] illinois [dot] edu.
+I am passionate about using rigorous empirical methods to address real-world policy questions. My current work explores the effects of education policies and social programs on long-term economic mobility and workforce development.
+
+**Contact:** You can reach me at xw47 [at] illinois [dot] edu.
 
 Education Background
 =====
