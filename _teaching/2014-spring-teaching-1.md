@@ -37,7 +37,7 @@ redirect_from:
 ## 🗂️ Teaching Statement & Evaluations
 
 - 📄 Read my [teaching statement](https://uofi.box.com/s/uqyq3848to5p0tfzex58ciompa3958y4).  
-- 📝 View my [teaching evaluations](link-to-evaluations).
+- 📝 View my [teaching evaluations](https://uofi.box.com/s/8emt1rss2gibjikdh617jk2zwazc6xyk).
 
 ### Selected Student Comments
 
