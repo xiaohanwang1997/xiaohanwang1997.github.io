@@ -70,6 +70,6 @@ redirect_from:
   
 ## 🏅 Teaching Awards & Certifications
 
-- 🏆 **List of Teachers Ranked as Excellent**, University of Illinois — *Spring 2024*
+- 🏆 **List of Teachers Ranked as Excellent**, University of Illinois — *Spring 2024*, *Spring 2025*
 
 </div>
