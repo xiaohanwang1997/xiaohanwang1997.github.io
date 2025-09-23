@@ -11,13 +11,16 @@ redirect_from:
   
 ## 📘 Courses Taught
 
+### Upper-Level Economics Courses
+- **ECON 513**: *International Trade* — Teaching Assistant, Fall 2025
+- **ECON 490**: *International Trade* — Teaching Assistant, Fall 2025  
+- **ECON 450**: *Development Economics* — Teaching Assistant, Fall 2025
+- **ECON 480**: *Industrial Competition & Monopoly* — Teaching Assistant, Spring 2023
+- **ECON 440**: *Labor Economics* — Teaching Assistant, Spring 2023
+- **ECON 436**: *Economics of Coordination* — Teaching Assistant, Spring 2023    
+
 ### ECON 102: *Microeconomic Principles*
 - **Teaching Assistant**: Fall 2023, Spring 2024, Fall 2024, Spring 2025
-
-### Upper-Level Economics Courses
-- **ECON 436**: *Economics of Coordination* — Teaching Assistant, Spring 2023  
-- **ECON 440**: *Labor Economics* — Teaching Assistant, Spring 2023  
-- **ECON 480**: *Industrial Competition & Monopoly* — Teaching Assistant, Spring 2023
 
 ### STAT 202: *Economic Statistics*
 - **Teaching Assistant**: Fall 2022
@@ -71,5 +74,6 @@ redirect_from:
 ## 🏅 Teaching Awards & Certifications
 
 - 🏆 **List of Teachers Ranked as Excellent**, University of Illinois — *Spring 2024*, *Spring 2025*
+- 📜 **Certificate in ESG Investing**, CFA Institute (Issued Mar 2025, Credential ID: 137043239)
 
 </div>
