@@ -39,8 +39,8 @@ redirect_from:
 
 ## 🗂️ Teaching Statement & Evaluations
 
-- 📄 Read my [teaching statement](https://uofi.box.com/s/uqyq3848to5p0tfzex58ciompa3958y4).  
-- 📝 View my [teaching evaluations](https://uofi.box.com/s/8emt1rss2gibjikdh617jk2zwazc6xyk).
+- 📄 Read my [teaching statement](https://www.dropbox.com/scl/fi/4jaw59myexqboio5rqwnt/Xiaohan_Wang_Teaching_Statement.pdf?rlkey=tvkajqvypi7chuepxz1nxz5c0&st=0cyyo2r5&dl=0).  
+- 📝 View my [teaching evaluations](https://www.dropbox.com/scl/fi/softitelaid26aa5xsbqq/Xiaohan_Wang_Course_Evaluation_Results.pdf?rlkey=caeloxlv5iqhlzo5ztl4kal2a&st=tbl6h241&dl=0).
 
 ### Selected Student Comments
 
