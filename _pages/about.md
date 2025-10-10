@@ -19,6 +19,6 @@ I will be on the 2025–2026 Job Market.
 </p>
 
 - [Curriculum Vitae](assets/docs/CV_XiaohanWang.pdf)
-- [Research Statement](https://www.dropbox.com/scl/fi/b71et3pel02rhz41vwrb7/Xiaohan_Wang_Research_Statement.pdf?rlkey=gdu018hynx2rh9720dq0lyzkf&st=ghtoaydg&dl=0))
+- [Research Statement](https://www.dropbox.com/scl/fi/b71et3pel02rhz41vwrb7/Xiaohan_Wang_Research_Statement.pdf?rlkey=gdu018hynx2rh9720dq0lyzkf&st=ghtoaydg&dl=0)
 - [Teaching Statement](https://www.dropbox.com/scl/fi/b71et3pel02rhz41vwrb7/Xiaohan_Wang_Research_Statement.pdf?rlkey=gdu018hynx2rh9720dq0lyzkf&st=ghtoaydg&dl=0)
 
