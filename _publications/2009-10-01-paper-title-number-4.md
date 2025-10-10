@@ -1,5 +1,5 @@
 ---
-title: " Natural Disasters and Occupational Mobility in US Agriculture: Evidence from the 1927 Mississippi Flood *(*Job Market Paper*)* *(*with Xinhui Sun*)*"
+title: " Natural Disasters and Occupational Mobility in US Agriculture: Evidence from the 1927 Mississippi Flood _(Job Market Paper)_ _(with Xinhui Sun)_"
 collection: research
 category: manuscripts
 order: 1
