@@ -1,9 +1,9 @@
 ---
-title: "Child Labor Laws and Intergenerational Occupational Mobility in Agriculture"
+title: " Natural Disasters and Occupational Mobility in US Agriculture: Evidence from the 1927 Mississippi Flood *(*Job Market Paper*)* *(*with Xinhui Sun*)*"
 collection: research
 category: manuscripts
-order: 2
-excerpt: 'This study explores the influence of **U.S. child labor legislation** on the **intergenerational transmission** of **agricultural occupations**. Drawing on data from the U.S. Decennial Census and the Census of Agriculture between 1880 and 1930, a Difference-in-Differences analysis indicates a **6.5% reduction** in the tendency for children from agricultural families to remain in farming. Differential impacts were identified across **gender, birth order, and racial categories**, with an increased likelihood of individuals from disadvantaged backgrounds moving into non-agricultural fields. The study also documents a concurrent **decrease in the quantity of farms** alongside an **expansion in their average acreage**, pointing to a consolidation within the agricultural sector. These findings demonstrate that child labor legislation was a key contributor to shifts in **occupational patterns** and hastened the economy-wide **structural move away from agriculture** in the United States.'
+order: 1
+excerpt: 'This study investigates how the **1927 Great Mississippi Flood** influenced the **intergenerational transmission of agricultural occupations** in the United States. Combining county-level flood exposure data with linked **1920, 1930, and 1940 U.S. decennial census microdata**, we analyze how this major environmental shock reshaped occupational choices across generations. Results indicate that children from flooded counties were **10% less likely to pursue farming** relative to peers in unaffected areas. The effect is concentrated among children from **non-farmer families**, while the occupational persistence of **farm households** remained largely stable. Within the agricultural sector, sons in flooded regions were more likely to become **paid farm workers**, reflecting a shift toward lower-risk employment, whereas sons of self-employed farmers tended to remain in **family-based farming**, demonstrating resilience in traditional agricultural practices. The findings highlight how large-scale natural disasters can simultaneously **disrupt mobility patterns** and **reinforce sectoral persistence**, revealing the complex interplay between environmental shocks and long-term economic adaptation.'
 
-keywords: [Child Labor Laws, Agricultural Consolidation, Sectoral Shifts]
+keywords: [Natural Disasters, Occupational Mobility, Intergenerational Persistence, Environmental Shocks]
 ---
