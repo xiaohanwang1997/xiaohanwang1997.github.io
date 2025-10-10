@@ -13,9 +13,8 @@ I am passionate about using rigorous empirical methods to address real-world pol
 
 **Contact:** You can reach me at xw47 [at] illinois [dot] edu.
 
-## Job Market 2025–2026
 
-<p style="color:#b22222; font-weight:bold;">
+<p style="color:#b22222; font-weight:bold; font-size:1.1em;">
 I will be on the 2025–2026 Job Market.
 </p>
 
