@@ -44,17 +44,13 @@ redirect_from:
 
 ### Selected Student Comments
 
-> "Xiaohan was always well-prepared and made complex material feel approachable."  
-> — *Spring 2025*
+> "Xiaohan was always well-prepared and made complex material feel approachable."  > — *Spring 2025*
 
-> "She provided great clarity during discussion sessions and was patient when answering questions. It was clear she genuinely cared about students learning the material well."  
-> — *Fall 2024*
+> "She provided great clarity during discussion sessions and was patient when answering questions. It was clear she genuinely cared about students learning the material well."  > — *Fall 2024*
 
-> "Very responsive and helpful over email and office hours. She went above and beyond in helping us prepare for the midterms by summarizing key ideas and sharing extra resources."  
-> — *Spring 2024*
+> "Very responsive and helpful over email and office hours. She went above and beyond in helping us prepare for the midterms by summarizing key ideas and sharing extra resources."  > — *Spring 2024*
 
-> "Xiaohan's discussion sessions were incredibly helpful. She broke things down step-by-step and never made you feel bad for asking questions."  
-> — *Fall 2023*
+> "Xiaohan's discussion sessions were incredibly helpful. She broke things down step-by-step and never made you feel bad for asking questions."  > — *Fall 2023*
 
 > "I appreciated how organized and thoughtful Xiaohan was in every session. She made sure we not only memorized formulas but truly understood how to apply them." 
 > — *Fall 2023*
