@@ -16,7 +16,7 @@ redirect_from:
 - **ECON 490**: *International Trade* — Teaching Assistant, Fall 2025  
 - **ECON 450**: *Development Economics* — Teaching Assistant, Fall 2025
 - **ECON 480**: *Industrial Competition & Monopoly* — Teaching Assistant, Spring 2023
-- **ECON 440**: *Labor Economics* — Teaching Assistant, Spring 2023
+- **ECON 440**: *Labor Economics* — Teaching Assistant, Spring 2023, Spring 2026
 - **ECON 436**: *Economics of Coordination* — Teaching Assistant, Spring 2023    
 
 ### ECON 102: *Microeconomic Principles*
@@ -50,20 +50,14 @@ redirect_from:
 > "She provided great clarity during discussion sessions and was patient when answering questions. It was clear she genuinely cared about students learning the material well."  
 > — *Fall 2024*
 
-> "Xiaohan explained difficult concepts in an easy-to-follow way. She also made sure everyone felt comfortable participating in class, which created a collaborative learning environment."  
-> — *Fall 2024*
-
 > "Very responsive and helpful over email and office hours. She went above and beyond in helping us prepare for the midterms by summarizing key ideas and sharing extra resources."  
 > — *Spring 2024*
 
-> "Xiaohan's discussion sessions were incredibly helpful. She broke things down step-by-step and never made you feel bad for asking questions. I wish more TAs were like her!"  
+> "Xiaohan's discussion sessions were incredibly helpful. She broke things down step-by-step and never made you feel bad for asking questions."  
 > — *Fall 2023*
 
-> "I appreciated how organized and thoughtful Xiaohan was in every session. She made sure we not only memorized formulas but truly understood how to apply them."  
+> "I appreciated how organized and thoughtful Xiaohan was in every session. She made sure we not only memorized formulas but truly understood how to apply them." 
 > — *Fall 2023*
-
-> "One of the best TAs I’ve had—clear, supportive, and genuinely enthusiastic about the material. Her review sessions really boosted my confidence going into the exams."  
-> — *Spring 2023*
 
 </div>
 
