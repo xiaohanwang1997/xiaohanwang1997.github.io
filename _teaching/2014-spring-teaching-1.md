@@ -35,7 +35,7 @@ redirect_from:
 
 ---
 
-<div class="notice--info" markdown="1">
+<!-- <div class="notice--info" markdown="1">
 
 ## 🗂️ Teaching Statement & Evaluations
 
@@ -56,7 +56,7 @@ redirect_from:
 
 </div>
 
----
+--- -->
 
 <div class="notice--success" markdown="1">
   
