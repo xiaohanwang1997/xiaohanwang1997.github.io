@@ -158,6 +158,9 @@ include:
   - _pages
   - files
 exclude:
+  - _archive
+  - docs
+  - README.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
