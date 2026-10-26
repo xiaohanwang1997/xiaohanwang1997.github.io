@@ -7,15 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome! I’m Xiaohan Wang (pronounced Shee-ah-hahn), an applied microeconomist with a Ph.D. in Economics from the University of Illinois Urbana-Champaign.
+Hello, and welcome! I’m Xiaohan Wang (pronounced Shee-ah-hahn). I have a Ph.D. in Economics from the University of Illinois Urbana-Champaign, and I now work in applied AI and machine learning.
 
-My research interests span labor economics, public economics, and the economics of education. I study how public policies and economic shocks shape educational opportunities, occupational choices, and intergenerational mobility.
+I’m an Applied AI/ML Senior Associate at JPMorgan Chase, where I’m part of the Sales Science team. I’m helping expand the team’s machine-learning recommendations in Blueprint and supporting ways to learn from how recommendations perform after they’re rolled out. The goal is to use that feedback to keep improving them over time.
 
-My work examines natural disasters and occupational mobility, tuition-free college programs and higher education outcomes, and child labor laws and the transition out of agriculture. Using historical and contemporary data with causal inference methods, I explore how policies and changing economic conditions influence opportunity across generations.
+Before joining JPMorgan Chase, I studied how public policies and economic shocks affect people’s opportunities. My research focused on labor, public, and education economics, including the effects of natural disasters on occupational mobility, tuition-free college programs, and child labor laws. I used historical and contemporary data and causal inference methods to explore how people’s opportunities change across generations.
+
+I enjoy work that combines careful analysis with practical questions—whether that means understanding the effects of a policy or learning how to make recommendations more useful.
 
 ## Education
 
 - **Ph.D. in Economics, Graduate Minor in Statistics**, University of Illinois Urbana-Champaign
+- **Master’s in Computer Science**, Georgia Institute of Technology
 - **Master’s in Policy Economics**, University of Illinois Urbana-Champaign
 
 **Contact**: [xw47@illinois.edu](mailto:xw47@illinois.edu).
