@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome! I’m Xiaohan Wang (pronounced Shee-ah-hahn). I have a Ph.D. in Economics from the University of Illinois Urbana-Champaign, and I now work in applied AI and machine learning.
+Hello, and welcome! I’m Xiaohan Wang, and I go by Tiffany. Xiaohan is pronounced “Shee-ah-hahn.” I have a Ph.D. in Economics from the University of Illinois Urbana-Champaign, and I now work in applied AI and machine learning.
 
 I’m an Applied AI/ML Senior Associate at JPMorgan Chase, where I’m part of the Sales Science team. I’m helping expand the team’s machine-learning recommendations in Blueprint and supporting ways to learn from how recommendations perform after they’re rolled out. The goal is to use that feedback to keep improving them over time.
 
